@@ -1,0 +1,61 @@
+/* min-width:768px */
+
+header {
+    background-image: url('../img/header-big.jpg');
+}
+
+.header-text {
+    top:30%;
+}
+
+.header-text h2{
+    font-size: 2.6rem;
+}
+.header-text p{
+    text-align: center;
+    font-size: 2rem;
+}
+
+footer {
+    padding: 50px 100px;
+    font-size: 1.7rem;
+}
+.footer-menu {
+    text-align: left;
+}
+footer .container {
+    grid-template-columns:2fr 1fr 1fr 1fr 1fr;
+}
+
+form > .inputs {
+    width:40%;
+    display: inline-block;
+
+}
+form > .inputs:nth-child(2) {
+    margin-left:100px;
+}
+
+.about-us img{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 70px;
+}
+
+.testimonials {
+    display: flex;
+    height: 65vh;
+    flex-wrap: wrap;
+}
+
+.process {
+    height: 900px;
+}
+.process-text {
+    height: 200px;
+}
+.process-text p{
+    margin-top: 30px;
+}

@@ -1,0 +1,62 @@
+/* min-width:576px */
+
+.square {
+    width: 50%;
+}
+
+.square2 {
+    width: 50%;
+}
+
+.products > div {
+    position: relative;
+    width:33.3%;
+}
+
+footer {
+    padding: 40px 100px;
+    font-size: 1.9rem;
+}
+
+.process {
+    height: 800px;
+}
+
+.process-text {
+    height: 300px;
+}
+
+.process-text p{
+    padding-top: 80px;
+}
+
+.process-text h2{
+    margin:65px 0px 10px;
+}
+
+.slider {
+    height: 70vh;
+}
+
+.div-slider .slide .info{
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 80%;
+  }
+  
+  .div-slider .slide .info p:first-child{
+    font-size: 2.5rem;
+  }
+  .div-slider .slide .info p:last-child{
+    font-size: 1.8rem;
+    margin-top: 10px;
+  }
+  
+  .div-slider .navigation{
+    bottom: 50px;
+  }
+
+  form textarea, input {
+    font-size: 1.4rem;
+}
+  

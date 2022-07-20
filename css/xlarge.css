@@ -1,0 +1,31 @@
+/* min-width:1200px */
+
+
+.skills-text h2{
+    font-size: 4.5rem;
+    margin-bottom: 20px;
+}
+
+.skills-text p{
+    font-size: 1.5rem;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.underline {
+    width:500px;
+    margin-bottom: 10px;
+}
+
+.skill {
+    height:3px;
+}
+
+.square {
+    width: 25%;
+}
+
+.square2 {
+    width: 25%;
+}
